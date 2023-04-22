@@ -48,14 +48,21 @@ Welcome to my page!
 
 <img alt="Visual Studio Code" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 
-<div style="display:flex;justify-content:center;">
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img align="center" src="https://github-readme-stats.vercel.app/api?username=ruslanbabkin01&show_icons=true&theme=merko&hide=issues" />
-    </a>
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ruslanbabkin01&layout=compact&theme=merko" />
-    </a>
-</div>
-<br>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ruslanbabkin01&theme=merko&repo=goit-react-hw-08-phonebook)](https://github.com/ruslanbabkin01/goit-react-hw-08-phonebook)
+  <a href="https://github.com/ruslanbabkin01/github-readme-stats">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=ruslanbabkin01&show_icons=true&theme=merko&hide=issues" />
+  </a>
+  <a href="https://github.com/ruslanbabkin01/github-readme-stats">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ruslanbabkin01&layout=compact&theme=merko" />
+  </a>
+
+
+<!-- ## 🗂️ Highlight Projects
+
+  <a href="https://github.com/ruslanbabkin01/goit-react-hw-08-phonebook">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ruslanbabkin01&theme=merko&repo=goit-react-hw-08-phonebook" />
+  </a>
+  <a href="https://github.com/ruslanbabkin01/filmoteka">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ruslanbabkin01&theme=merko&repo=filmoteka" />
+  </a> -->
+
