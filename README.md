@@ -1,9 +1,10 @@
-## Hi there, I'm Ruslan Babkin 👋
+## Hi there, I'm Ruslan Babkin <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a>
+Welcome to my page!
 
  I am a beginner Fullstack JavaScript Developer (React.js/Node.js)
  
  Looking for remote or full-time work. Development, practice and work for the result are important for me. I intend to develop innovative technologies and deliver value to people.
- #### Link to [my CV](https://drive.google.com/file/d/1ypJKqmb2ftlPXp0JhCl7-U9ovigYaw24/view?usp=share_link)
+ #### 📙Check out [my CV](https://drive.google.com/file/d/1ypJKqmb2ftlPXp0JhCl7-U9ovigYaw24/view?usp=share_link)
  
 - 🌱 I’m currently learning **everything I can get my hands on**
 - 🤔 I’m looking for help with **finding more time in a single day**
@@ -47,6 +48,14 @@
 
 <img alt="Visual Studio Code" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ruslanbabkin01&show_icons=true&theme=merko&hide=issues)](https://github.com/anuraghazra/github-readme-stats)
+<div style="display:flex;justify-content:center;">
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+        <img align="center" src="https://github-readme-stats.vercel.app/api?username=ruslanbabkin01&show_icons=true&theme=merko&hide=issues" />
+    </a>
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+        <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ruslanbabkin01&layout=compact&theme=merko" />
+    </a>
+</div>
+<br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ruslanbabkin01)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ruslanbabkin01&theme=merko&repo=goit-react-hw-08-phonebook)](https://github.com/ruslanbabkin01/goit-react-hw-08-phonebook)
