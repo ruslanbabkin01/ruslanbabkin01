@@ -4,7 +4,7 @@ Welcome to my page!
  I am a beginner Fullstack JavaScript Developer (React.js/Node.js)
  
  Looking for remote or full-time work. Development, practice and work for the result are important for me. I intend to develop innovative technologies and deliver value to people.
- #### 📙Check out [my CV](https://drive.google.com/file/d/1ypJKqmb2ftlPXp0JhCl7-U9ovigYaw24/view?usp=share_link)
+ #### 📙Check out [my CV](https://drive.google.com/drive/folders/1BqmS0_cZzrm3B0ZJKbWe1v8dLroWQRq2?usp=share_link)
  
 - 🌱 I’m currently learning **everything I can get my hands on**
 - 🤔 I’m looking for help with **finding more time in a single day**
