@@ -1,10 +1,7 @@
 ## Hi there, I'm Ruslan Babkin <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a>
 Welcome to my page!
 
- I am a beginner Fullstack developer (React.js, React Native, Node.js)
- Now, I'm looking for a company where I could be useful, and become part of a team.
- 
- #### 📙Check out [my CV](https://drive.google.com/drive/folders/1BqmS0_cZzrm3B0ZJKbWe1v8dLroWQRq2?usp=share_link)
+ I am a Fullstack developer (React.js, React Native, Node.js)
  
 - 🌱 I’m currently learning **everything I can get my hands on**
 - 🤔 I’m looking for help with **finding more time in a single day**
